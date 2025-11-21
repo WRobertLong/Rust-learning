@@ -1,0 +1,6 @@
+# Exclude all compiled and temporary files
+/target/
+
+# Exclude IDE and operating system files
+.DS_Store
+*.swp
